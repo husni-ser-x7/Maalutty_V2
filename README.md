@@ -17,7 +17,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MaalutV2&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/Maalutty_V2&title=Profile%20Views)
 
 ## Setup
 <div align="center">
