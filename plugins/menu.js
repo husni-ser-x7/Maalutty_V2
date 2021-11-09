@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*❤️MAALUTTY_V2💙*`
 
 
-This bot created by Nijin and husni.
+*This bot created by nijin and husni*.
             *MAALUTTY*
 
 ■□■□■□■□■□■□■□■□■□■□
