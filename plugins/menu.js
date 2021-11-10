@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/VnDHa45.jpeg";
+    r_text[0] = "https://i.ibb.co/YT0pW4x/Screenshot-2021-11-10-09-29-10-1-1.png";
     
     
     var i = Math.floor(1*Math.random())
@@ -21,7 +21,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 
 maalutty_v2 created by nijin and husni.
-            *Nandhutty*
+            *Maalutty*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -134,7 +134,7 @@ maalutty_v2 created by nijin and husni.
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
 ⚠️ex  attp maalutty
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝙉𝘼𝙉𝘿𝙃𝙐𝙏𝙏𝙔💢═════
+❤️Maalutty💙
 ▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
 
 `}) 
