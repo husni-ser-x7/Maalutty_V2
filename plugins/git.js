@@ -33,6 +33,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 *github* :https://github.com/nijin-husni/Maalutty_V2.
+
+
+*audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
+
+*sticker commands* :https://github.com/nijin-husni/uploads/tree/main/stickers.
 ■□■□■□■□■□■□■□■□■□■□
 ❤️Maalutty💙
 ▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
