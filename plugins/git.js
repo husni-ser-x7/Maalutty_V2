@@ -23,8 +23,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 
-owner number husni:https://wa.me/917025868709
-            *Maalutty*
+*owner number husni*:https://wa.me/917025868709
+            
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
