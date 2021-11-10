@@ -17,11 +17,11 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*❤️MAALUTTY_V2💙*`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
 
 
-*this bot created by nijin and husni*.
-            *MAALUTTY*
+maalutty_v2 created by nijin and husni.
+            *Nandhutty*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -132,10 +132,10 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🍙𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp Maalutty
+⚠️ex  attp maalutty
 ■□■□■□■□■□■□■□■□■□■□
 ═════💢𝙉𝘼𝙉𝘿𝙃𝙐𝙏𝙏𝙔💢═════
-         ▣NIJIN-HUSNI▣
+▣▣ ~NIJIN~ AND ~HUSNI~ ▣▣
 
 `}) 
 
