@@ -31,7 +31,7 @@ Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (a
        const sections = [{title: "❤️Maalutty💙", rows: rows}]
        
        const button = {
-        buttonText: 'idmme nekk',
+        buttonText: 'CLICK HERE',
         description: "❤️MAALUTTY_V2💙",
         sections: sections,
         listType: 1
