@@ -19,8 +19,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
 
-
-
+*bot making video* : https://youtu.be/jF8wF1KdyOw
 
 
 *owner number husni* :https://wa.me/917025868709.
@@ -32,7 +31,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *owner id instagram* :https://instagram.com/maalutty_v2.
 
 
-*github* :https://github.com/nijin-husni/Maalutty_V2.
+*github* : https://github.com/nijin-husni/Maalutty_V2.
 
 
 *audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
