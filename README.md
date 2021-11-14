@@ -52,16 +52,15 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/nijin-husni/Maalutty_V2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/nijin-husni/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
+<a href="https://github.com/nijin-husni/Maalutty_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/Maalutty_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/nijin-husni/Maalutty_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/Maalutty_V2?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
