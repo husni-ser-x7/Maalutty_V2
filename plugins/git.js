@@ -25,7 +25,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *owner number husni* :https://wa.me/917025868709.
             
 
-*owner number Nijin* :https://wa.me/919446672120.
+*owner number Nijin* :https://wa.me/919605385305.
 
 
 *owner id instagram* :https://instagram.com/maalutty_v2.
