@@ -146,12 +146,12 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*Da oru photokk reply tha😹!*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*Da oru photokk reply tha😹*",
             "DOWNLOADING": "```Media is downloading & reading...```",
             "ERROR": "```I couldn't read this :/```\n*Error:*```{}```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
@@ -160,7 +160,7 @@
             "KICKME_DESC": "It kicks you from the group you are using it in.",
             "KICKME": "```Bye bye! I am going 🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*Da oru photo tha😹*",
             "PPING": "```Setting profile photo...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
@@ -175,7 +175,7 @@
         },
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*Da oru photokk reply tha😹*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
             "RBGING": "```Removing background...```"
         },
@@ -199,7 +199,7 @@
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "Downloading",
+            "DOWNLOADING_SONG": "paatt keettatte",
             "NAMEY": "NAME",
             "URL": "LINK",
             "THUMB": "THUMB",
@@ -309,13 +309,13 @@
         },
         "conventer": {
             "MP4TOAUDİO_DESC": "Converts video to sound.",
-            "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Converting Video to Audio..```",
-            "ANİM_STİCK": "Converts animated stickers to video.",
-            "ANİMATE": "```Converting Animated Sticker To Video..```",
-            "STİCKER_DESC": "Converts the sticker to a photo.",
-            "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!*",
-            "STİCKER": "```Converting the sticker to a photo..```",
+            "MP4TOAUDİO_NEEDREPLY": "*Da oru videokk reply tha😹!*",
+            "MP4TOAUDİO": "```maalutty video convert cheyyatte😎..```",
+            "ANİM_STİCK": "maalutty sticker video aakkatte😎.",
+            "ANİMATE": "```maalutty sticker video aakkatte😎..```",
+            "STİCKER_DESC": "maalutty photo sticker aakatte😎.",
+            "STİCKER_NEEDREPLY": "*Da oru stickerin reply tha😹!*",
+            "STİCKER": "```maalutty sticker photo aakkatte😎..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -405,7 +405,7 @@
         },
         "unvoice": {
             "UV_DESC": "Converts audio to sound recording.",
-            "UV_REPLY": "*You Must Reply to the Audio File!*",
+            "UV_REPLY": "Da oru Audio Filen reply thaa!*",
             "UV_PROC": "```Converting to Sound Recording..```"
         },
         "ffmpeg": {
@@ -425,7 +425,7 @@
             "FOTO_DESC": "Sends the replied photo as spam.",
             "FOTO_FOT": "```Please Reply To Any Picture!```",
             "VİD_DESC": "Sends the replied video as spam.",
-            "VİD_NEED": "```Please Reply to Any Video!```"
+            "VİD_NEED": "```Da oru videokk reply tha😹!```"
         },
         "carbon": {
             "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
@@ -443,9 +443,9 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "Converts text to plain painting.",
+            "TTP_DESC": "maalutty text ttp aakatte😎.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
-            "NEED_WORD": "*You must enter words!*",
+            "NEED_WORD": "*Da monuse oru word thaada😂*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
             "TRUMP_DESC": "Converts the text to Trump's tweet.",
             "CHANGE_DESC": "Turns the text into the change my mind poster.",
