@@ -1,11 +1,11 @@
-const Asena = require('../events');
+const Maalutty = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
     var r_text = new Array ();
     
