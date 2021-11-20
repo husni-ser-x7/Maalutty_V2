@@ -45,7 +45,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │         *⌚` + time + `*
 │
 │ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : Nijin and husni 
-│ ▢ *ᴏᴡɴᴇʀ* :` + ❤️maalutty💙 + `
+│ ▢ *ᴏᴡɴᴇʀ* :` + config.BOT + `
 │ ▢ *ᴠᴇʀsɪᴏɴ* : 2.0
 │ ▢ *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 │ ▢ *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
