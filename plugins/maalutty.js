@@ -7,7 +7,7 @@ const url = 'https://i.ibb.co/C7ZVWh7/Screenshot-2021-10-25-21-10-01-2.png'
 Maalutty.addCommand(
   { pattern: 'maalutty?(.*)', fromMe: true, desc: "Forward replied msg." },
   async (message, match) => {
-    if (match == "") return await message.sendMessage("*Give me a jid*\nExample .mforward jid1 jid2 jid3 jid4 ...");
+    if (match == "") return await message.sendMessage("*Give me a jid*\nExample .maalutty jid1 jid2 jid3 jid4 ...");
     if (!message.reply_message)
       return await message.sendMessage("*Reply to a Message*");
     const buff = await getBuffer(url)
