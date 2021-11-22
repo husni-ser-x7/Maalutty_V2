@@ -31,7 +31,7 @@
             "required": false,
             "value": "true"
         },
-        "TALKING_PINKY": {
+        "TALKING_MAALUTTY": {
             "description": " Turn your account into a chatbot!",
             "required": true,
             "value": "false"
