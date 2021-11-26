@@ -20,7 +20,7 @@ Maalutty.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (mes
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Maalutty_v2💙
 
 
-maalutty_v2 created by nijin and husni.
+maalutty created by nijin and husni.
             *Maalutty*
 
 
