@@ -28,10 +28,10 @@ Maalutty.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (mess
 *owner number Nijin* :https://wa.me/919605385305.
 
 
-*owner id instagram* :https://instagram.com/maalutty_v2.
+*owner id instagram* :https://instagram.com/_husni_ser_.
 
 
-*github* : https://github.com/nijin-husni/Maalutty_V2.
+*github* : https://github.com/nijin-husni/Maalutty.
 
 
 *audio commands* :https://github.com/nijin-husni/uploads/tree/main/bgm.
