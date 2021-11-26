@@ -1,9 +1,9 @@
 {
-    "name": "MAALUTTY_V2",
+    "name": "MAALUTTY",
     "description": "MAALUTTY is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.ibb.co/C7ZVWh7/Screenshot-2021-10-25-21-10-01-2.png",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/nijin-husni/Maalutty_V2",
+    "repository": "https://github.com/nijin-husni/Maalutty",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
@@ -123,7 +123,7 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "❤️MAALUTTY_V2💙"
+            "value": "❤️MAALUTTY💙"
         },
         "WORK_TYPE": {
             "description": "Maalutty Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
