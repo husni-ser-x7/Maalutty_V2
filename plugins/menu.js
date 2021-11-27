@@ -67,16 +67,16 @@ maalutty created by nijin and husni.
 🛑𝙐𝙨𝙚➜ Send the covid stats of your country.
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -weather <city>
-🍙𝙐𝙨𝙚➜ Tells you about the weather of your place.
+🛑𝙐𝙨𝙚➜ Tells you about the weather of your place.
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -removebg 
-🍙𝙐𝙨𝙚➜ Removes the background of tge image.
+🛑𝙐𝙨𝙚➜ Removes the background of tge image.
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -ocr
-🍙𝙐𝙨𝙚➜ Finds the text written on the image.
+🛑𝙐𝙨𝙚➜ Finds the text written on the image.
 
 ➡️𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
-🍙𝙐𝙨𝙚➜ It sends you random wallpaper.
+🛑𝙐𝙨𝙚➜ It sends you random wallpaper.
 
 ❤️𝙈𝘼𝘼𝙇𝙐𝙏𝙏𝙔💙
 ❤️ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* 💙
