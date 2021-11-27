@@ -31,6 +31,16 @@
             "required": false,
             "value": "true"
         },
+        "ALIVE_BUTTON": {
+            "description": "Set the alive message two name",
+            "required": true,
+            "value": "Hello"
+        },
+        "BUTTON_TWO": {
+            "description": "Set the Alive message first name",
+            "required": true,
+            "value": "Hii"
+        },
         "TALKING_PUNKY": {
             "description": " Turn your account into a chatbot!",
             "required": true,
