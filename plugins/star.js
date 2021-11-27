@@ -1,8 +1,8 @@
 /* Amalser Bot
-Re-edit Amalser
+Re-edit nijin-husni
 */
 
-const Amalser = require('../events');
+const Maalutty = require('../events');
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const Config = require('../config')
@@ -17,8 +17,8 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
-// send a buttons message!credit Amal
+Maalutty.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+// send a buttons message!credit Husni
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: Config.ALIVE_BUTTON }, type: 1},
         {buttonId: 'id2', buttonText: {displayText: Config.BUTTON_TWO }, type: 1}
@@ -26,7 +26,7 @@ Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (a
       
       const buttonMessage = {
           contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'Amalser ©',
+          footerText: 'Maalutty ©',
           buttons: buttons,
           headerType: 1
       }
