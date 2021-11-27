@@ -1,12 +1,14 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+Maalutty+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+<h3 align="center">💖🎗️MISS HELENA 🎗️💖</h3>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY_V2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/C7ZVWh7/Screenshot-2021-10-25-21-10-01-2.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/JHqKPX5/Screenshot-2021-11-26-22-39-45-1.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Maalutty" src="https://img.shields.io/badge/Maalutty-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MAALUTTY_V2" src="https://img.shields.io/badge/MAALUTTY_V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/Maalutty?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/nijin-husni"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/MAALUTTY_V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -17,25 +19,25 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/Maalutty&title=Maalutty%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/nijin-husni/MAALUTTY_V2&title=MAALUTTY_V2%20Views)
 
 ## Setup
 <div align="center">
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/Maalutty-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY_V2-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/Maalutty) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/MAALUTTY_V2) 
  
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/nijin-husni/Maalutty
-$ cd Maalutty
+$ git clone https://github.com/nijin-husni/MAALUTTY_V2
+$ cd MAALUTTY_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -43,8 +45,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/nijin-husni/Maalutty
-$ cd Maalutty
+$ git clone https://github.com/nijin-husni/MAALUTTY_V2
+$ cd MAALUTTY_V2
 $ npm i
 $ node julie.js
 ```
@@ -52,15 +54,15 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/nijin-husni/Maalutty">
+  <a href="httsp://github.com/nijin-husni/MAALUTTY_V2">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/nijin-husni/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/nijin-husni?color=blue&style=flat-square"></a>
-<a href="https://github.com/nijin-husni/Maalutty/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/Maalutty?color=blue&style=flat-trangle"></a>
-<a href="https://github.com/nijin-husni/Maalutty/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/Maalutty?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/nijin-husni/MAALUTTY_V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
+<a href="https://github.com/nijin-husni/MAALUTTY_V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nijin-husni/MAALUTTY_V2?color=blue&style=flat-trangle"></a>
 </p>
 
 ## 📢 Guide
@@ -88,7 +90,7 @@ Click WA logo to Join public bot Group👇
 
 [![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
 
-### ❤️ Maalutty 💙 website⤵️
+### ❤️ MAALUTTY_V2 💙 website⤵️
 
 [![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://maalutty_v2nijinhusni.blogspot.com)
 
