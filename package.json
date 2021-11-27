@@ -2,13 +2,13 @@
   "name": "Maalutty",
   "version": "7.3.6",
   "description": "Maalutty is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
-  "main": "./Maalutty/bot.js",
+  "main": "./Maalutty_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nijin-husni/Maalutty.git"
+    "url": "git+https://github.com/nijin-husni/Maalutty_V2.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,9 +21,9 @@
   "developer": "@nijin-husni / @nijin-husni",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/nijin-husni/Maalutty/issues"
+    "url": "https://github.com/nijin-husni/Maalutty_V2/issues"
   },
-  "homepage": "https://github.com/nijin-husni/Maalutty#readme",
+  "homepage": "https://github.com/nijin-husni/Maalutty_V2#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
