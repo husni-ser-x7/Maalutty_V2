@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+MAALUTTY+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/JHqKPX5/Screenshot-2021-11-26-22-39-45-1.png" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/YT0pW4x/Screenshot-2021-11-10-09-29-10-1-1.png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="MAALUTTY" src="https://img.shields.io/badge/MAALUTTY-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
