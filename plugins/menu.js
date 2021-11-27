@@ -10,7 +10,7 @@ Maalutty.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (mes
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/YT0pW4x/Screenshot-2021-11-10-09-29-10-1-1.png";
+    r_text[0] = "https://i.ibb.co/N6b6cv3/Maalutty.png";
     
     
     var i = Math.floor(1*Math.random())
