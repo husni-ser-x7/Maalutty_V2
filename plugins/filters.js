@@ -3,7 +3,7 @@ any can add bgm with names
 maalutty 
 */
 const fs = require('fs')
-const Julie = require('../events');
+const Maalutty = require('../events');
 const {MessageType, Mimetype } = require('@adiwajshing/baileys');
 const FilterDb = require('./sql/filters');
 const Config = require('../config')
