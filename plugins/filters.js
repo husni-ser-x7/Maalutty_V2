@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 farhan-dqz.
+/* Copyright (C) 2020 nijin-husni.
 any can add bgm with names
-julie 
+maalutty 
 */
 const fs = require('fs')
 const Julie = require('../events');
@@ -14,7 +14,7 @@ const Language = require('../language');
 const Lang = Language.getString('filters');
 
 
-Julie.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
+Maalutty.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
 
     if (match === null) {
@@ -34,7 +34,7 @@ Julie.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC,
         await message.client.sendMessage(message.jid,Lang.FILTERED.format(match[0].replace(/['"]+/g, '')),MessageType.text);
     }
 }));
-Julie.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, dontAddCommandList: true}, (async (message, match) => {
+Maalutty.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
     if (match === null) {
         return await message.client.sendMessage(message.jid,Lang.NEED_REPLY + '\n*Example:* ```.stop "hello"```',MessageType.text)
@@ -51,7 +51,7 @@ Julie.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
     
 if (Config.GEAR == 'one') {  
     
-Julie.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
+Maalutty.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if(Config.BGMFILTER){
             var uri = encodeURI(match[1])
         let banned = jid.find( Jid => Jid === message.jid);
@@ -63,7 +63,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/bgm/men
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/bgm/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         
-const array = ['name entha','King','Kooi','Love','Thamasha','big fan','charlie','gd n8','kar98','love u','Endi','endi','noob','Poweresh','Perfect ok','perfect ok','power','saji','sed','single','waiting','Myr','myr','Malappuram','uyir','thug','avastha','Moodesh','sketched','Cr7','Z aayi','manasilayo','Hi','nirtheda','Aarulle','Cr7 back','Portugal','ennitt','Boss',,'Haters','ayn','Kgf','sed bgm','Messi','Hehe','hehe','Set aano','set aano','Bot myren','Venda','venda','chadhi','Chadhi','Hbday','hbday','Bot','R yyi padicho','Myre','myre','Umbi','umbi','parayatte','Fresh','fresh','Ok da','ok da','Feel aayi','feel aaayi','Scene','scene','Ok bei','ok bei','Da','Kozhi','kozhi','adi','Adi','kali','Kali','thantha','Thantha','Aysheri','aysheri','thund','Thund','thot','Thot','sneham','Sneham','pm','Pm','paatt','Paatt','njan','Njan','life','Life','Killadi','killadi','good bye','Good bye','evide','Evide','achan','Achan','kunna','Kunna','broken','Broken','why','Why','enth patti','Enth patti','pani','Pani','padicho','Padicho','paad','Paad','Chatho','chatho','lover','Lover','nanayikoode','Nanayikoode','Die','die','hate','Hate','Lamiya engineering','lamiya engineering','nallath','Nallath','Neymer','neymer','patti','Patti','poora','Poora','Rohit','rohit','thall','Thall','Theri','theri','potte','Potte','Caption','caption','onn poyi','Onn poyi','problem','Problem','Chill','chill','help','Help','Kunda','kunda','povano','sthalam','Sthalam','tholvi','Tholvi','vannu','Vannu','malayalam','Malayalam','vaa','Vaa','lub','Ayin','thyr','Thyr','Sad','sad','Sed','kiss','Kiss','baby','Baby','hi','voice','love','Admin','admin','Remove','remove','boss','sorry','Sorry','Owner','owner','Gud nyt','dream','Dream','Avastha','Bye','bye','Nijin','What','Voice','Vilikk','Verupikkalle','Vazha','Vada','Va','Undakanni','Unda','Uff','Troll','Time','Thair','Start','Sry','Sorry','Senti','Sed akki','Sarasu','Poyo','Povalle','Pova','pottan','Podi','Poda','Parayatte','Noob','Nikk','Nee etha','Name','Naayi','Mole','Mng','Mass','Marannu','Mandan','Manassilayo','Line','Kollum','Kollatte','Kannappi','Jocker','Ivan','Ijjathi','Jerry','Insult','Home','Happy birthday','Hacker','Group chathu','Group active','Good night','Friend','Food','Fan','Dude','Dora','Chaya','Business','Bott chathu','Block','Bgm1','Ayn','Audio','Aliya','Air','Age','Ara','Pubg','Pes','Bgmi','Husni','Nijin husni','Xxxtentacion','Mm','Hello','Maalutty','Free fire','Ff','Pamb','I love you','Parayula','Wifi password','complan','Sp','Aara','Bgm','Bgm2','Bgm3','Bgm4','Bgm5','Bgm6','song','Munna','video','insta','husni','nijin','Nijin Husni','sticker','photo','Football','Isl','Lm10','M','Neymar','Njr','Ronaldo','football','isl','lm10','m','Aa','Aa da','aa','Aaa','Hbd','hbd','Hlo','Haapy','Sad','Happy birthday','Busy','sad','happy','Happy Birthday']
+const array = ['name entha','King','Kooi','Love','menu','alive','git','Thamasha','big fan','charlie','gd n8','kar98','love u','Endi','endi','noob','Poweresh','Perfect ok','perfect ok','power','saji','sed','single','waiting','Myr','myr','Malappuram','uyir','thug','avastha','Moodesh','sketched','Cr7','Z aayi','manasilayo','Hi','nirtheda','Aarulle','Cr7 back','Portugal','ennitt','Boss',,'Haters','ayn','Kgf','sed bgm','Messi','Hehe','hehe','Set aano','set aano','Bot myren','Venda','venda','chadhi','Chadhi','Hbday','hbday','Bot','R yyi padicho','Myre','myre','Umbi','umbi','parayatte','Fresh','fresh','Ok da','ok da','Feel aayi','feel aaayi','Scene','scene','Ok bei','ok bei','Da','Kozhi','kozhi','adi','Adi','kali','Kali','thantha','Thantha','Aysheri','aysheri','thund','Thund','thot','Thot','sneham','Sneham','pm','Pm','paatt','Paatt','njan','Njan','life','Life','Killadi','killadi','good bye','Good bye','evide','Evide','achan','Achan','kunna','Kunna','broken','Broken','why','Why','enth patti','Enth patti','pani','Pani','padicho','Padicho','paad','Paad','Chatho','chatho','lover','Lover','nanayikoode','Nanayikoode','Die','die','hate','Hate','Lamiya engineering','lamiya engineering','nallath','Nallath','Neymer','neymer','patti','Patti','poora','Poora','Rohit','rohit','thall','Thall','Theri','theri','potte','Potte','Caption','caption','onn poyi','Onn poyi','problem','Problem','Chill','chill','help','Help','Kunda','kunda','povano','sthalam','Sthalam','tholvi','Tholvi','vannu','Vannu','malayalam','Malayalam','vaa','Vaa','lub','Ayin','thyr','Thyr','sad','Sed','kiss','Kiss','baby','Baby','hi','voice','love','Admin','admin','Remove','remove','boss','sorry','Owner','owner','Gud nyt','dream','Dream','Avastha','Bye','bye','Nijin','What','Voice','Vilikk','Verupikkalle','Vazha','Vada','Va','Undakanni','Unda','Uff','Troll','Time','Thair','Start','Sry','Sorry','Senti','Sed akki','Sarasu','Poyo','Povalle','Pova','pottan','Podi','Poda','Parayatte','Noob','Nikk','Nee etha','Name','Naayi','Mole','Mng','Mass','Marannu','Mandan','Manassilayo','Line','Kollum','Kollatte','Kannappi','Jocker','Ivan','Ijjathi','Jerry','Insult','Home','Happy birthday','Hacker','Group chathu','Group active','Good night','Friend','Food','Fan','Dude','Dora','Chaya','Business','Bott chathu','Block','Bgm1','Ayn','Audio','Aliya','Air','Age','Ara','Pubg','Pes','Bgmi','Husni','Nijin husni','Xxxtentacion','Mm','Hello','Maalutty','Free fire','Ff','Pamb','I love you','Parayula','Wifi password','complan','Sp','Aara','Bgm','Bgm2','Bgm3','Bgm4','Bgm5','Bgm6','song','Munna','video','insta','husni','nijin','Nijin Husni','sticker','photo','Football','Isl','Lm10','M','Neymar','Njr','Ronaldo','football','isl','lm10','m','Aa','Aa da','aa','Aaa','Hbd','hbd','Hlo','Haapy','Sad','Happy birthday','Busy','sad','happy','Happy Birthday']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -85,7 +85,7 @@ if(pattern.test(message.message)){
 }));
 }
     if (Config.GEAR == 'two') {    
-    Julie.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
+    Maalutty.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
@@ -117,14 +117,14 @@ if(pattern.test(message.message)){
     );
 }));
 }
-Julie.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
+Maalutty.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
     if (!!message.mention && message.mention[0] == '918921483992@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/stickers/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','Kaztro','Sad','Poocha','Poda','Bomb','Ayin','Ariyo','Alone','Pubg','Pes','Bgmi','Ff','Free fire','chavanam','Manassilayo','Kodathi','Kollum','vatt','Gaanam','Single','Maalutty','Xxxtentacion','Aa','Pottan','Budhi','Love','Njan','Mazha','Hi','Vella','Patt','Colour','Hacker','Ok','tts','Hack','Hii']
+const array = ['asena','ayin','back','Back','Bot','fuck','Fuck','Hehe','Hello','Kill','kill','kiss','line','love','mwolu','Mwolu','single','tha','thund','z','Z','bie','Bie','Kaztro','Sad','Poocha','Poda','Bomb','Ayin','Ariyo','Alone','Pubg','Pes','Bgmi','Ff','Free fire','chavanam','Manassilayo','Manassilayilla','Kodathi','Kollum','vatt','Gaanam','Single','Maalutty','Xxxtentacion','Aa','Pottan','Budhi','Love','Njan','Mazha','Hi','Vella','Patt','Colour','Hacker','Ok','tts','Hack','Hii']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -160,7 +160,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
  
-Julie.addCommand({on: 'text', fromMe: false,onlyGroup: true}, (async (message, match) => {
+Maalutty.addCommand({on: 'text', fromMe: false,onlyGroup: true}, (async (message, match) => {
 
     if(Config.THERI_KICK){
     let banned = jid.find( Jid => Jid === message.jid);
@@ -188,7 +188,7 @@ filtreler.map(
     }
 );
 }));
- Julie.addCommand({on: 'text', fromMe: false, onlyPm: true}, (async (message, match) => {
+ Maalutty.addCommand({on: 'text', fromMe: false, onlyPm: true}, (async (message, match) => {
 
     if(Config.PLKS){
 const array = afnp 
