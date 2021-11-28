@@ -141,7 +141,7 @@
         },
         "REMOVE_BG_API_KEY": {
             "description": "https://remove.bg",
-            "required": false
+            "required": false,
             "value": "89THrjggPoQbQEekP62cVw2g"
         },
         "ALIVE_MESSAGE": {
