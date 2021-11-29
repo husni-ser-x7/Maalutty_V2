@@ -147,7 +147,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ╔══╗  ╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝"
+            "value": "\n╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
