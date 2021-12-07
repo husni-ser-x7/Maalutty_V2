@@ -40,7 +40,7 @@ $ git clone https://github.com/nijin-husni/MAALUTTY_V2
 $ cd MAALUTTY_V2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node bot.js
+$ node maalutty.js
 ```
       
 ```js
@@ -48,7 +48,7 @@ SETUP
 $ git clone https://github.com/nijin-husni/MAALUTTY_V2
 $ cd MAALUTTY_V2
 $ npm i
-$ node bot.js
+$ node maalutty.js
 ```
 
 ----
