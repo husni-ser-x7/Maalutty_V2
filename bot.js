@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ ❤️MAALUTTY💙 working aan😎!')
+            chalk.green.bold('✅ 💖sjbot🖤 working aan😎!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -162,7 +162,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*💖sjbot🖤 BOT ELLAM SETTAYI😇*', MessageType.text);
                 }
             }
             else {
@@ -184,7 +184,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*💖sjbot🖤 BOT ELLAM SETTAYI😇*', MessageType.text);
                 }
 
             }
@@ -233,7 +233,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*❤️MAALUTTY💙 BOT ELLAM SETTAYI😇*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*💖sjbot🖤 BOT ELLAM SETTAYI😇*', MessageType.text);
                 }
             }
         }
@@ -391,7 +391,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~❤️MAALUTTY💙~*' +
+                                await conn.sendMessage(conn.user.jid, '*~💖sjbot🖤~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥺 errors\njoin with \n https://chat.whatsapp.com/KJWUNpT7lBzDuPGnlV69Vp``` ' 
                                     , MessageType.text);
                             }
